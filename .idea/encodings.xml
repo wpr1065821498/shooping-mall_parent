@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer_7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic_parent/basic_until" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plant_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plant_parent/plat_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plat_parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plat_parent/plat_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/plat_parent/plat_server_8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudzull_9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userconsumer_9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userinterface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/userprovide_8001" charset="UTF-8" />
+  </component>
+</project>

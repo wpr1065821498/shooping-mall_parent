@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_until" />
+        <module name="EurekaServer_7001" />
+        <module name="plant_interface" />
+        <module name="plat_interface" />
+        <module name="plat_server_8001" />
+        <module name="springcloudzull_9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic_parent" target="1.5" />
+      <module name="basic_until" target="1.5" />
+      <module name="EurekaServer_7001" target="1.5" />
+      <module name="plant_interface" target="1.5" />
+      <module name="plant_parent" target="1.5" />
+      <module name="plat_interface" target="1.5" />
+      <module name="plat_parent" target="1.5" />
+      <module name="plat_server_8001" target="1.5" />
+      <module name="shooping-mall_parent" target="1.5" />
+      <module name="springcloudzull_9527" target="1.6" />
+      <module name="userconsumer_9001" target="1.5" />
+      <module name="userinterface" target="1.5" />
+      <module name="userprovide_8001" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
